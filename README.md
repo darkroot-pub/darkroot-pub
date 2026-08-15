@@ -49,7 +49,7 @@ Focus
 
 "Android" "Apps" "Mobile"
 
-<br><div align="center"><a href="https://github.com/darkroot-pub">
+<br><div align="center"><a href="https://github.com/darkroot-pub/DarkRoot_App_Store">
 <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a></div></td><td width="33%" valign="top"><div align="center"><img src="https://i.ibb.co/zhnLTyDN/Picsart-26-01-19-08-36-42-065.png" width="180" alt="DarkRoot AI"/>DarkRoot AI
 
