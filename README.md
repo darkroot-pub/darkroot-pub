@@ -23,8 +23,11 @@ I am a passionate Computer Science student and software engineering hobbyist ded
 
 ### 🌟 Featured Projects
 - 📱 **DarkRoot App Store**: A curated hub for innovative applications.
+  <img src="https://i.ibb.co/JDt6ySc/2f7e92384edf.png" width="400" alt="Dark Store">
 - 🌐 [DarkRoot AI](https://darkroot-ai.netlify.app/): An AI-powered web experience.
+  <img src="https://i.ibb.co/zhnLTyDN/Picsart-26-01-19-08-36-42-065.png" width="400" alt="DarkRoot AI">
 - 👤 [Personal Portfolio](https://about-david.vercel.app/): Learn more about my journey.
+  <img src="https://i.ibb.co/0Ry4p0wx/1758973130118.png" width="400" alt="owne4">
 
 ### 📫 Connect with me
 - **Email**: [davidstha900@gmail.com](mailto:davidstha900@gmail.com)
