@@ -1,7 +1,7 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20David!%20👋&fontSize=70" width="100%">
+# <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=200&section=header&text=Hi,%20I'm%20David!%20👋&fontSize=70" width="100%">
 
 <div align="center">
-  <h3>🎓 CS Student | 💻 Software Engineering Enthusiast | 🤖 AI & Automation Explorer</h3>
+  <h3 style="color: #4B0082;">🎓 CS Student | 💻 Software Engineering Enthusiast | 🤖 AI & Automation Explorer</h3>
   <p><i>Turning coffee into code and curiosity into reality.</i></p>
 </div>
 
@@ -19,18 +19,18 @@ I am a passionate **Computer Science student** and software engineering hobbyist
 
 ### 🌟 Featured Projects
 <table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
+  <tr align="center" valign="top">
+    <td width="33%">
       <h4>📱 DarkRoot App Store</h4>
       <img src="https://i.ibb.co/JDt6ySc/2f7e92384edf.png" width="100%" style="border-radius: 10px;" alt="Dark Store">
       <p>A curated hub for innovative applications, focusing on utility and efficiency.</p>
     </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🌐 DarkRoot AI</h4>
-      <img src="https://i.ibb.co/zhnLTyDN/Picsart-26-01-19-08-36-42-065.png" width="100%" style="border-radius: 10px;" alt="DarkRoot AI">
+    <td width="33%">
+      <h4><img src="https://img.shields.io/badge/DarkRoot_AI-4B0082?style=flat-square&logo=openai&logoColor=white" alt="AI Badge"></h4>
+      <img src="https://i.ibb.co/zhnLTyDN/Picsart-26-01-19-08-36-42-065.png" width="100%" style="border-radius: 10px; border: 2px solid #4B0082;" alt="DarkRoot AI">
       <p><a href="https://darkroot-ai.netlify.app/">Visit Site</a><br>An AI-powered web experience pushing the boundaries of LLMs.</p>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33%">
       <h4>👤 Portfolio</h4>
       <img src="https://i.ibb.co/0Ry4p0wx/1758973130118.png" width="100%" style="border-radius: 10px;" alt="owne4">
       <p><a href="https://about-david.vercel.app/">Explore Portfolio</a><br>A glimpse into my journey, skills, and achievements.</p>
@@ -63,12 +63,12 @@ I am a passionate **Computer Science student** and software engineering hobbyist
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://about-david.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer" width="100%">
 </div>
