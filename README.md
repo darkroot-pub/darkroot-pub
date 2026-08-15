@@ -1,8 +1,8 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=200&section=header&text=Hi,%20I'm%20David!%20👋&fontSize=70" width="100%">
+# <img src="https://capsule-render.vercel.app/api?type=soft&color=4B0082&height=200&section=header&text=Hi,%20I'm%20David!%20👋&fontSize=70&animation=fadeIn" width="100%">
 
 <div align="center">
   <h3 style="color: #4B0082;">🎓 CS Student | 💻 Software Engineering Enthusiast | 🤖 AI & Automation Explorer</h3>
-  <p><i>Turning coffee into code and curiosity into reality.</i></p>
+  <p><i>"Turning coffee into code and curiosity into reality."</i></p>
 </div>
 
 ---
@@ -11,49 +11,54 @@
 I am a passionate **Computer Science student** and software engineering hobbyist. I specialize in building innovative solutions that blend **Artificial Intelligence**, **Automation**, and **Mobile Technology**. I strive to create tools that are not only functional but also provide a seamless user experience.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkroot-pub&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkroot-pub&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darkroot-pub&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkroot-pub&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🌟 Featured Projects
-<table width="100%">
-  <tr align="center" valign="top">
-    <td width="33%">
-      <h4>📱 DarkRoot App Store</h4>
-      <img src="https://i.ibb.co/JDt6ySc/2f7e92384edf.png" width="100%" style="border-radius: 10px;" alt="Dark Store">
-      <p>A curated hub for innovative applications, focusing on utility and efficiency.</p>
-    </td>
-    <td width="33%">
-      <h4><img src="https://img.shields.io/badge/DarkRoot_AI-4B0082?style=flat-square&logo=openai&logoColor=white" alt="AI Badge"></h4>
-      <img src="https://i.ibb.co/zhnLTyDN/Picsart-26-01-19-08-36-42-065.png" width="100%" style="border-radius: 10px; border: 2px solid #4B0082;" alt="DarkRoot AI">
-      <p><a href="https://darkroot-ai.netlify.app/">Visit Site</a><br>An AI-powered web experience pushing the boundaries of LLMs.</p>
-    </td>
-    <td width="33%">
-      <h4>👤 Portfolio</h4>
-      <img src="https://i.ibb.co/0Ry4p0wx/1758973130118.png" width="100%" style="border-radius: 10px;" alt="owne4">
-      <p><a href="https://about-david.vercel.app/">Explore Portfolio</a><br>A glimpse into my journey, skills, and achievements.</p>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="300">
+        <img src="https://i.ibb.co/JDt6ySc/2f7e92384edf.png" width="280" style="border-radius: 15px; border: 2px solid #4B0082;" alt="Dark Store"><br>
+        <b>📱 DarkRoot App Store</b><br>
+        <i>Curated hub for innovation.</i>
+      </td>
+      <td align="center" width="300">
+        <img src="https://i.ibb.co/zhnLTyDN/Picsart-26-01-19-08-36-42-065.png" width="280" style="border-radius: 15px; border: 2px solid #4B0082;" alt="DarkRoot AI"><br>
+        <b>🌐 <a href="https://darkroot-ai.netlify.app/">DarkRoot AI</a></b><br>
+        <i>AI-powered experience.</i>
+      </td>
+      <td align="center" width="300">
+        <img src="https://i.ibb.co/0Ry4p0wx/1758973130118.png" width="280" style="border-radius: 15px; border: 2px solid #4B0082;" alt="Portfolio"><br>
+        <b>👤 <a href="https://about-david.vercel.app/">Portfolio</a></b><br>
+        <i>My journey & achievements.</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🔤 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<div align="center">
+  <h4>🔤 Languages</h4>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
 
-#### 🎯 Specialties
-- **Artificial Intelligence** $\rightarrow$ LLMs, Automation, Neural Networks.
-- **Mobile Apps** $\rightarrow$ Android Development, UI/UX Design.
-- **Systems** $\rightarrow$ Automation Scripts, API Integration.
+<div align="center">
+  <h4>🎯 Specialties</h4>
+  <code>AI & LLMs</code> • <code>Automation</code> • <code>Android Dev</code> • <code>UI/UX Design</code> • <code>API Integration</code>
+</div>
 
 ---
 
@@ -70,5 +75,5 @@ I am a passionate **Computer Science student** and software engineering hobbyist
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=4B0082&height=100&section=footer" width="100%">
 </div>
