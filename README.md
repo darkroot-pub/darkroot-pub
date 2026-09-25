@@ -1,44 +1,59 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="David — Computer Science Student · Software Engineering · AI & Automation" width="100%">
-  </picture>
-</div>
+# Hi, I'm David 👋
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="David — Computer Science Student · Software Engineering · AI & Automation">
+</picture>
 
-### Hi, I'm David
+<p align="center">
+  <b>Computer Science Student · Software Engineering · AI & Automation</b>
+</p>
 
-Computer Science student and software engineering enthusiast focused on turning ideas into practical digital products.
+<p align="center">
+  🤖 AI / LLMs &nbsp;·&nbsp; 📱 Android &nbsp;·&nbsp; 🐍 Python &nbsp;·&nbsp; ☕ Kotlin / Java &nbsp;·&nbsp; ⚙️ Automation
+</p>
 
-I work across **AI & automation**, **Android / mobile**, **API integrations**, and **clean UI/UX**.
+I'm a Computer Science student and software engineering enthusiast who enjoys turning ideas into practical digital products.
 
-<br>
+I focus on building things that combine **software, AI, automation, mobile technology, and clean UI/UX**.
 
-## About / Focus
+---
 
-- AI-powered applications and intelligent assistants
-- Android and mobile application development
-- Automation tools and API integrations
-- Modern UI/UX experiences
-- Developer tools and practical experiments
+## What I Build
 
-Currently exploring: LLM applications, modern Android development, backend APIs & automation, and cybersecurity fundamentals.
+- 🧠 **AI-powered applications and assistants**
+- 📱 **Android and mobile applications**
+- ⚙️ **Automation tools and API integrations**
+- 🎨 **Modern UI/UX experiences**
+- 🛠️ **Developer tools and experiments**
+- 📦 **Practical software projects**
 
-<br>
+---
 
 ## Featured Projects
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **DarkRoot App Store** | Curated Android application platform focused on discovering and distributing useful apps | [GitHub](https://github.com/darkroot-pub/DarkRoot_App_Store) |
-| **DarkRoot AI** | AI-powered platform exploring intelligent assistants, APIs, automation, and AI experiences | [Live Demo](https://darkroot-ai.netlify.app/) |
-| **Personal Portfolio** | Showcase of projects, experiments, skills, and development journey | [Visit](https://about-david.vercel.app/) |
+### 📱 DarkRoot App Store
+A curated Android application platform focused on discovering and distributing useful applications.
 
-<br>
+**Focus:** Android · Apps · Mobile  
+[View Project](https://github.com/darkroot-pub/DarkRoot_App_Store)
 
-## Engineering Stack
+### 🤖 DarkRoot AI
+An AI-powered platform exploring intelligent assistants, APIs, automation, and AI experiences.
+
+**Focus:** AI · LLMs · APIs  
+[Live Demo](https://darkroot-ai.netlify.app/)
+
+### 🌐 Personal Portfolio
+My personal portfolio showcasing projects, experiments, skills, and my development journey.
+
+**Focus:** Portfolio · UI/UX · Web  
+[Visit Portfolio](https://about-david.vercel.app/)
+
+---
+
+## Tech Stack
 
 **Languages**  
 `Python` · `Kotlin` · `Java` · `C` · `HTML` · `MySQL`
@@ -49,14 +64,34 @@ Currently exploring: LLM applications, modern Android development, backend APIs 
 **Areas of Interest**  
 AI & LLMs · Android · Automation · API Integration · UI/UX · Software Engineering · Developer Tools · Cybersecurity
 
-<br>
+---
+
+## Currently Exploring
+
+| Area       | Current Focus                              |
+|------------|--------------------------------------------|
+| AI         | LLM applications & intelligent assistants  |
+| Android    | Modern mobile application development      |
+| Backend    | APIs, integrations & automation            |
+| UI/UX      | Clean, responsive & modern interfaces      |
+| Security   | Ethical hacking & cybersecurity fundamentals |
+
+---
+
+## Development Philosophy
+
+> Learn → Build → Test → Improve → Repeat
+
+Curiosity creates the idea.  
+Code turns the idea into reality.  
+Iteration makes the result better.
+
+---
 
 ## Connect
 
 [Portfolio](https://about-david.vercel.app/) · [GitHub](https://github.com/darkroot-pub) · [Email](mailto:davidstha900@gmail.com)
 
-<br>
-
-<div align="center">
+<p align="center">
   <i>Let's build something useful.</i>
-</div>
+</p>
